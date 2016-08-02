@@ -6,4 +6,4 @@ botkitとGoogleSpreadsheetを連携してAzure App Serviceにデプロイする�
 ・Spreadsheetの作成
 
 ・APIキーの取得
-https://console.developers.google.com/apis/credentials
+https://console.developers.google.com/apis/credentials 
